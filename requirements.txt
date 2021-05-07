@@ -1,0 +1,7 @@
+Requires...
+
+censusdata
+pandas
+matplotlib.pyplot
+numpy
+scipy.stats
